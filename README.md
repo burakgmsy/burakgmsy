@@ -1,8 +1,6 @@
 ### Hi there, I'm Burak - aka [Bugy]👋
 
-[![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/Wv4GYaQ)
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cannmeister)
-
+[![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://www.instagram.com/burakgmsyy/)
 
 
 ## I'm a Student and Developer!
