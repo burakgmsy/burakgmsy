@@ -1,4 +1,4 @@
-### Hi there, I'm Burak - aka [Bugy]👋
+### Hi there, I'm Burak - aka [bugy]👋
 
 [![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/UywwQCz)
 
@@ -18,19 +18,39 @@
 [<img align="left" alt="burakgmsy | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />](https://www.instagram.com/burakgmsyy/)
 
 
-<br />
+
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Flutter" width="26px" src="" />
+<img align="left" alt="Dart" width="26px" src="" />
+<img align="left" alt="Unity" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568082701090836/UNITY.png" />
+<img align="left" alt="C#" width="26px" src="" />
+<img align="left" alt="C" width="26px" src="" />
+<img align="left" alt="Firebase" width="26px" src="" />
+
+
+
+<br />
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Heroku" width="26px" src="" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Git" width="26px" src="" />
+<img align="Mysql" alt="Git" width="26px" src="" />
+
+
+<br />
+
+
 
 <br />
 <br />
 
----
 
 ### Github Stats:
 
