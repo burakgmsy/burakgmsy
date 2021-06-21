@@ -42,7 +42,6 @@
 <br />
 <br />
 
-
 ### Github Stats:
 
   <img align="left" alt="burakgmsy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burakgmsy&show_icons=true&hide_border=true" />
