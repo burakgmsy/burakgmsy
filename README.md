@@ -8,7 +8,6 @@
 - 💡 I’m currently learning Dart and Flutter
 - 💡 I’m currently learning Unity
 - 🤝 I’m looking to collaborate with other content creators
-- 🌱 I’m currently learning unity.
 - 📫 How to reach me **gumusayofficial@gmail.com**
 
  
@@ -29,15 +28,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
-
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="burakgmsy's Github Stats" src="https://https://github-readme-stats.vercel.app/api?username=burakgmsy&show_icons=true&hide_border=true" />
-
-</details>
 
 
