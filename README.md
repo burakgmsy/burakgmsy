@@ -18,7 +18,7 @@
 [<img align="left" alt="burakgmsy | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />](https://www.instagram.com/burakgmsyy/)
 
 
-
+<br />
 <br />
 
 ### Languages and Tools:
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856570987533303848/pngwing.com_2.png?width=539&height=499" />
 <img align="left" alt="JavaScript" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568401556013066/javascript_icon_130900.png?width=499&height=499" />
 
 <img align="left" alt="Heroku" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568359625555998/heroku_icon_130912.png?width=499&height=499" />
@@ -43,10 +43,6 @@
 
 <img align="left" alt="Git" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568369581785128/file_type_git_icon_130581.png?width=499&height=499" />
 <img align="Mysql" alt="Mysql" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568360333213716/mysql_original_wordmark_logo_icon_146417.png?width=499&height=499" />
-
-
-<br />
-
 
 
 <br />
