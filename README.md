@@ -24,8 +24,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Flutter" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568363177082880/fluttericon.png?width=499&height=499" />
-<img align="left" alt="Dart" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568361545367642/dart.png?width=924&height=499" />
-<img align="left" alt="Unity" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568082701090836/UNITY.png" />
+<img align="left" alt="Dart" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856570102593617920/17985894551536211770-512.png?width=499&height=499" />
+<img align="left" alt="Unity" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856570514218942535/pngwing.com_1.png?width=499&height=499" />
 <img align="left" alt="C#" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568396510003200/csharp_original_logo_icon_146578.png?width=499&height=499" />
 <img align="left" alt="C" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568351941459978/c_original_logo_icon_146611.png?width=499&height=499" />
 <img align="left" alt="Firebase" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568642970845201/google_firebase_icon-icons.com_61475.png?width=499&height=499" />
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<img align="left" alt="Node.js" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568367640477736/nodejs_original_wordmark_logo_icon_146412.png?width=499&height=499" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568401556013066/javascript_icon_130900.png?width=499&height=499" />
 
 <img align="left" alt="Heroku" width="26px" src="https://media.discordapp.net/attachments/856568042771054602/856568359625555998/heroku_icon_130912.png?width=499&height=499" />
