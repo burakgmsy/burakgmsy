@@ -1,8 +1,7 @@
 ### Hi there, I'm Burak - aka [bugy]👋
 
 [![Discord](https://img.shields.io/discord/752678046380589067?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/UywwQCz)
-[![PlayStore](https://i.ibb.co/1MsF7yP/google-play-badge.png)](https://play.google.com/store/apps/dev?id=7239319537203441125)
-
+<a href='https://play.google.com/store/apps/dev?id=7239319537203441125&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 
 ## I'm a Student and Developer!
