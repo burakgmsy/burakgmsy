@@ -9,7 +9,6 @@
 ## I'm a Student and Developer!
 
 - 💡 I’m currently learning Unity and C#
-- 💡 I’m currently learning Dart and Flutter
 - 🤝 I’m looking to collaborate with other content creators
 - 📫 How to reach me **gumusayofficial@gmail.com**
 
