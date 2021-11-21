@@ -6,7 +6,7 @@
 <a href='https://play.google.com/store/apps/dev?id=7239319537203441125&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="250px" height="100px" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 
-## I'm a Student and Developer!
+## I'm a Game Developer and Computer Engineer!
 
 - 💡 I’m currently learning Unity and C#
 - 🤝 I’m looking to collaborate with other content creators
